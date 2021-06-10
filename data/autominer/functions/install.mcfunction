@@ -2,6 +2,7 @@ scoreboard objectives add tw.vm.tool dummy
 
 scoreboard objectives add tw.vm.coal minecraft.mined:minecraft.coal_ore
 scoreboard objectives add tw.vm.iron minecraft.mined:minecraft.iron_ore
+scoreboard objectives add tw.vm.copper minecraft.mined:minecraft.copper_ore
 scoreboard objectives add tw.vm.gold minecraft.mined:minecraft.gold_ore
 scoreboard objectives add tw.vm.lapis minecraft.mined:minecraft.lapis_ore
 scoreboard objectives add tw.vm.redstone minecraft.mined:minecraft.redstone_ore

@@ -1,5 +1,6 @@
 execute if score @s tw.vm.coal matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/coal
 execute if score @s tw.vm.iron matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/iron
+execute if score @s tw.vm.copper matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/copper
 execute if score @s tw.vm.gold matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/gold
 execute if score @s tw.vm.lapis matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/lapis
 execute if score @s tw.vm.redstone matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/redstone
@@ -12,6 +13,7 @@ execute if score @s tw.vm.obsidian matches 1.. unless predicate autominer:is_sne
 
 scoreboard players reset @s tw.vm.coal
 scoreboard players reset @s tw.vm.iron
+scoreboard players reset @s tw.vm.copper
 scoreboard players reset @s tw.vm.gold
 scoreboard players reset @s tw.vm.lapis
 scoreboard players reset @s tw.vm.redstone

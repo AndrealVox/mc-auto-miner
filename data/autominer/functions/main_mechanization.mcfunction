@@ -1,5 +1,6 @@
 execute as @a[scores={tw.vm.coal=1..}] at @s run function autominer:break/mechanization/check_sneaking
 execute as @a[scores={tw.vm.iron=1..}] at @s run function autominer:break/mechanization/check_sneaking
+execute as @a[scores={tw.vm.copper=1..}] at @s run function autominer:break/mechanization/check_sneaking
 execute as @a[scores={tw.vm.gold=1..}] at @s run function autominer:break/mechanization/check_sneaking
 execute as @a[scores={tw.vm.lapis=1..}] at @s run function autominer:break/mechanization/check_sneaking
 execute as @a[scores={tw.vm.redstone=1..}] at @s run function autominer:break/mechanization/check_sneaking
@@ -11,6 +12,5 @@ execute as @a[scores={tw.vm.granite=1..}] at @s run function autominer:break/mec
 execute as @a[scores={tw.vm.obsidian=1..}] at @s run function autominer:break/mechanization/check_sneaking
 
 execute as @a[scores={tw.vm.tin=1..}] at @s run function autominer:break/mechanization/check_sneaking
-execute as @a[scores={tw.vm.copper=1..}] at @s run function autominer:break/mechanization/check_sneaking
 execute as @a[scores={tw.vm.uranium=1..}] at @s run function autominer:break/mechanization/check_sneaking
 execute as @a[scores={tw.vm.titanium=1..}] at @s run function autominer:break/mechanization/check_sneaking
