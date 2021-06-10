@@ -10,8 +10,11 @@ scoreboard objectives add tw.vm.diamond minecraft.mined:minecraft.diamond_ore
 scoreboard objectives add tw.vm.emerald minecraft.mined:minecraft.emerald_ore
 scoreboard objectives add tw.vm.quartz minecraft.mined:minecraft.nether_quartz_ore
 
-scoreboard objectives add tw.vm.granite minecraft.mined:minecraft.granite
 scoreboard objectives add tw.vm.obsidian minecraft.mined:minecraft.obsidian
+
+scoreboard objectives add tw.vm.granite minecraft.mined:minecraft.granite
+scoreboard objectives add tw.vm.diorite minecraft.mined:minecraft.diorite
+scoreboard objectives add tw.vm.andesite minecraft.mined:minecraft.andesite
 
 scoreboard players set break.particles tw.vm.tool 0
 

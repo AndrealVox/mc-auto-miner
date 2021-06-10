@@ -10,7 +10,9 @@
     "minecraft:lapis_ore",
     "minecraft:diamond_ore",
     "minecraft:nether_quartz_ore",
+    "minecraft:obsidian",
     "minecraft:granite",
-    "minecraft:obsidian"
+    "minecraft:diorite",
+    "minecraft:andesite"
   ]
 }

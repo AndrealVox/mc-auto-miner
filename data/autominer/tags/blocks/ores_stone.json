@@ -5,6 +5,8 @@
     "minecraft:iron_ore",
     "minecraft:copper_ore",
     "minecraft:nether_quartz_ore",
-    "minecraft:granite"
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite"
   ]
 }

@@ -10,8 +10,11 @@ scoreboard objectives remove tw.vm.diamond
 scoreboard objectives remove tw.vm.emerald
 scoreboard objectives remove tw.vm.quartz
 
-scoreboard objectives remove tw.vm.granite
 scoreboard objectives remove tw.vm.obsidian
+
+scoreboard objectives remove tw.vm.granite
+scoreboard objectives remove tw.vm.diorite
+scoreboard objectives remove tw.vm.andesite
 
 scoreboard objectives remove tw.vm.tin
 scoreboard objectives remove tw.vm.uranium

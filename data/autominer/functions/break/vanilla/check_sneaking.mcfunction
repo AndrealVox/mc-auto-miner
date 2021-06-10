@@ -8,8 +8,11 @@ execute if score @s tw.vm.diamond matches 1.. unless predicate autominer:is_snea
 execute if score @s tw.vm.emerald matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/emerald
 execute if score @s tw.vm.quartz matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/quartz
 
-execute if score @s tw.vm.granite matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/granite
 execute if score @s tw.vm.obsidian matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/obsidian
+
+execute if score @s tw.vm.granite matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/granite
+execute if score @s tw.vm.diorite matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/diorite
+execute if score @s tw.vm.andesite matches 1.. unless predicate autominer:is_sneaking run function autominer:break/vanilla/andesite
 
 scoreboard players reset @s tw.vm.coal
 scoreboard players reset @s tw.vm.iron
@@ -21,5 +24,8 @@ scoreboard players reset @s tw.vm.diamond
 scoreboard players reset @s tw.vm.emerald
 scoreboard players reset @s tw.vm.quartz
 
-scoreboard players reset @s tw.vm.granite
 scoreboard players reset @s tw.vm.obsidian
+
+scoreboard players reset @s tw.vm.granite
+scoreboard players reset @s tw.vm.diorite
+scoreboard players reset @s tw.vm.andesite
