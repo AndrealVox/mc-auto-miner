@@ -1,4 +1,5 @@
 execute if score @s tw.vm.coal matches 1.. unless predicate autominer:is_sneaking run function autominer:break/mechanization/coal
+execute if score @s tw.vm.deepcoal matches 1.. unless predicate autominer:is_sneaking run function autominer:break/mechanization/deepcoal
 execute if score @s tw.vm.iron matches 1.. unless predicate autominer:is_sneaking run function autominer:break/mechanization/iron
 execute if score @s tw.vm.copper matches 1.. unless predicate autominer:is_sneaking run function autominer:break/mechanization/copper
 execute if score @s tw.vm.gold matches 1.. unless predicate autominer:is_sneaking run function autominer:break/mechanization/gold
@@ -20,6 +21,7 @@ execute if score @s tw.vm.titanium matches 1.. unless predicate autominer:is_sne
 
 
 scoreboard players reset @s tw.vm.coal
+scoreboard players reset @s tw.vm.deepcoal
 scoreboard players reset @s tw.vm.iron
 scoreboard players reset @s tw.vm.copper
 scoreboard players reset @s tw.vm.gold

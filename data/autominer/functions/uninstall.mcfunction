@@ -1,6 +1,7 @@
 scoreboard objectives remove tw.vm.tool
 
 scoreboard objectives remove tw.vm.coal
+scoreboard objectives remove tw.vm.deepcoal
 scoreboard objectives remove tw.vm.iron
 scoreboard objectives remove tw.vm.copper
 scoreboard objectives remove tw.vm.gold

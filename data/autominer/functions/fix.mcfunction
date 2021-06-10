@@ -1,6 +1,7 @@
 scoreboard objectives remove tw.vm.tool
 
 scoreboard objectives remove tw.vm.coal
+scoreboard objectives remove tw.vm.deepcoal
 scoreboard objectives remove tw.vm.iron
 scoreboard objectives remove tw.vm.copper
 scoreboard objectives remove tw.vm.gold
@@ -30,6 +31,7 @@ tag @e[type=experience_orb,tag=tw.vm.xp] remove tw.vm.xp
 scoreboard objectives add tw.vm.tool dummy
 
 scoreboard objectives add tw.vm.coal minecraft.mined:minecraft.coal_ore
+scoreboard objectives add tw.vm.deepcoal minecraft.mined:minecraft.deepslate_coal_ore
 scoreboard objectives add tw.vm.iron minecraft.mined:minecraft.iron_ore
 scoreboard objectives add tw.vm.copper minecraft.mined:minecraft.copper_ore
 scoreboard objectives add tw.vm.gold minecraft.mined:minecraft.gold_ore
