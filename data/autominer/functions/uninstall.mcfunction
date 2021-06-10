@@ -5,10 +5,10 @@ scoreboard objectives remove tw.vm.deepcoal
 scoreboard objectives remove tw.vm.iron
 scoreboard objectives remove tw.vm.copper
 scoreboard objectives remove tw.vm.gold
-scoreboard objectives remove tw.vm.lapis
 scoreboard objectives remove tw.vm.redstone
-scoreboard objectives remove tw.vm.diamond
 scoreboard objectives remove tw.vm.emerald
+scoreboard objectives remove tw.vm.lapis
+scoreboard objectives remove tw.vm.diamond
 scoreboard objectives remove tw.vm.quartz
 
 scoreboard objectives remove tw.vm.obsidian

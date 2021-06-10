@@ -35,10 +35,10 @@ scoreboard objectives add tw.vm.deepcoal minecraft.mined:minecraft.deepslate_coa
 scoreboard objectives add tw.vm.iron minecraft.mined:minecraft.iron_ore
 scoreboard objectives add tw.vm.copper minecraft.mined:minecraft.copper_ore
 scoreboard objectives add tw.vm.gold minecraft.mined:minecraft.gold_ore
-scoreboard objectives add tw.vm.lapis minecraft.mined:minecraft.lapis_ore
 scoreboard objectives add tw.vm.redstone minecraft.mined:minecraft.redstone_ore
-scoreboard objectives add tw.vm.diamond minecraft.mined:minecraft.diamond_ore
 scoreboard objectives add tw.vm.emerald minecraft.mined:minecraft.emerald_ore
+scoreboard objectives add tw.vm.lapis minecraft.mined:minecraft.lapis_ore
+scoreboard objectives add tw.vm.diamond minecraft.mined:minecraft.diamond_ore
 scoreboard objectives add tw.vm.quartz minecraft.mined:minecraft.nether_quartz_ore
 
 scoreboard objectives add tw.vm.obsidian minecraft.mined:minecraft.obsidian
